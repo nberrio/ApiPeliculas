@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TP\\OneDrive\\Escritorio\\ApiResful\\ApiPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703BAADA-102A-4A07-842A-B2A5E848D733}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\tp\\onedrive\\escritorio\\apiresful\\apipeliculas\\apipeliculas\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703BAADA-102A-4A07-842A-B2A5E848D733}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\TP\\OneDrive\\Escritorio\\ApiResful\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\TP\\OneDrive\\Escritorio\\ApiResful\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:44:33.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
